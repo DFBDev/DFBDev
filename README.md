@@ -11,3 +11,5 @@ ________________________________________
 #### (HTML, CSS, Tailwind, JavaScript, TypeScript, React, Next.js, Firebase, Figma, and C++ for school)
 
 ________________________________________
+
+### For questions, or if you just wanna chat, contact me @ dbdevbusiness@gmail.com 📧
