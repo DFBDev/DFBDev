@@ -1,4 +1,4 @@
-# <span margin-left="auto" margin-right="auto">Hi there 👋, I'm DFB.</span>
+# <span style="margin-left:auto;margin-right:auto;">Hi there 👋, I'm DFB.</span>
 
 ### I'm a CS sophmore and aspiring Front-end Developer (although I secretly love back-end as well 😄).
 
