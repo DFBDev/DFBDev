@@ -1,7 +1,8 @@
-Hi there 👋
+Hi there 👋, I'm DFB.
 
-I'm DFB for short. I'm a CS sophmore and aspiring Front-end Developer (although I secretly love back-end as well 😄).
+I'm a CS sophmore and aspiring Front-end Developer (although I secretly love back-end as well 😄).
 
 Over the years, I have worked with:
 
-<img src={"https://www.stickpng.com/img/icons-logos-emojis/tech-companies/html5-logo"} width="50"></img>
+
+![5847f5bdcef1014c0b5e489c](https://github.com/DFBDev/DFBDev/assets/104178225/2b288a8a-edc9-4360-9b72-d20e879c756b | width=50)
