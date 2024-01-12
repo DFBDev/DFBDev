@@ -1,6 +1,6 @@
 # Hi there 👋, I'm DFB.
 
-## I'm a CS sophmore and aspiring Front-end Developer (although I secretly love back-end as well 😄).
+### I'm a CS sophmore and aspiring Front-end Developer (although I secretly love back-end as well 😄).
 
 ### Over the years, and recently, I have worked with:
 
