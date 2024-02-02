@@ -13,5 +13,3 @@ ________________________________________
 ________________________________________
 
 ### For questions, or if you just wanna chat, contact me @ dbdevbusiness@gmail.com 📧
-
-![Java-Logo](https://github.com/DFBDev/DFBDev/assets/104178225/a364ca4f-bec9-491b-b1a7-039f79505129)
