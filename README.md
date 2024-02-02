@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm DFB.
 
-### I'm a CS sophmore, college-level math tutor, and aspiring Full-stack Developer (front-end dominant).
+### I'm a CS sophmore, college-level math tutor, and aspiring Full-stack Developer (back-end dominant).
 I also enjoy gaming, working out, learning, hanging out with friends/family and becoming my best self!
 
 ________________________________________
