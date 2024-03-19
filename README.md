@@ -9,12 +9,15 @@ ________________________________________
 * Java (JDK/SDK v21)
 * PostgreSQL
 * Spring/SpringBoot
+* Intellij IDE
 
 ### Other Tools:
 * HTML/CSS
 * Tailwind
 * JavaScript
 * React
+* C++
+* VSCode/VisualStudio IDE
 
 ________________________________________
 
