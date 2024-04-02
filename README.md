@@ -10,6 +10,7 @@ ________________________________________
 * PostgreSQL
 * Spring/SpringBoot
 * Intellij IDE
+* DBeaver RDBMS GUI.
 
 ### Other Tools:
 * HTML/CSS
