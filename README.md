@@ -15,8 +15,8 @@ ________________________________________
 ### Other Tools:
 * HTML/CSS
 * Tailwind
-* JavaScript
-* React
+* JavaScript/TypeScript
+* Vite + React
 * C++
 * VSCode/VisualStudio IDE
 
