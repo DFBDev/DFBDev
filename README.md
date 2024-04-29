@@ -7,10 +7,10 @@ ________________________________________
 
 ### Main Tools of Choice:
 * Java (JDK/SDK v21)
-* PostgreSQL
+* PostgreSQL (Supabase, DBeaver RDBMS-GUI)
 * Spring/SpringBoot
-* Intellij IDE
-* DBeaver RDBMS GUI.
+* Intellij IDE (Default/Maven)
+* Docker
 
 ### Other Tools:
 * HTML/CSS
