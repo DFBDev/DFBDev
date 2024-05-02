@@ -7,15 +7,15 @@ ________________________________________
 
 ### Main Tools of Choice:
 * Java (JDK/SDK v21)
-* PostgreSQL (Supabase, DBeaver RDBMS-GUI)
 * Spring/SpringBoot
+* JavaScript/TypeScript
+* PostgreSQL (Supabase, DBeaver RDBMS-GUI)
 * Intellij IDE (Default/Maven)
 * Docker
 
 ### Other Tools:
 * HTML/CSS
 * Tailwind
-* JavaScript/TypeScript
 * Vite + React
 * C++
 * VSCode/VisualStudio IDE
