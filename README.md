@@ -11,6 +11,7 @@ ________________________________________
 * JavaScript/TypeScript
 * PostgreSQL (Supabase, DBeaver RDBMS-GUI)
 * Intellij IDE (Default/Maven)
+* VSCode IDE
 * Docker
 
 ### Other Tools:
@@ -18,7 +19,7 @@ ________________________________________
 * Tailwind
 * Vite + React
 * C++
-* VSCode/VisualStudio IDE
+* VisualStudio IDE
 
 ________________________________________
 
